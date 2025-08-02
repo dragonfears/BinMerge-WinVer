@@ -1,0 +1,5 @@
+Write-Host "Juego: $($datos.juego)"
+Write-Host "Formato: $($datos.formato)"
+Write-Host "Tamaño: $($datos.tamañoMB) MB"
+Write-Host "Plataforma: $($datos.plataforma)"
+
