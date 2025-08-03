@@ -1,4 +1,4 @@
-🔗 Fusionador de Archivos BIN en PowerShell
+🔗 BinMerge WinVer
 
 Este proyecto es un script en **PowerShell** diseñado para automatizar la **fusión de múltiples archivos BIN** en uno solo. Es ideal para usuarios que trabajan con imágenes de disco divididas, especialmente en contextos de emulación, restauración de backups o preparación de medios físicos.
 
@@ -8,7 +8,7 @@ Este proyecto es un script en **PowerShell** diseñado para automatizar la **fus
 - 🔢 Ordenamiento inteligente por nombre o tamaño para mantener la secuencia correcta.
 - 🧬 Fusión secuencial de archivos en un único archivo `.bin` final.
 - ✅ Validación del archivo resultante (tamaño, existencia).
-- 🖥️ Interfaz por consola con mensajes claros y seguimiento del progreso.
+- 🖥️ Interfaz grafica con mensajes claros y seguimiento del progreso.
 
 ## 🎵 Compatibilidad con Tracks de Audio mas comunes
 
