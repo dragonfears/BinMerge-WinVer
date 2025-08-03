@@ -23,3 +23,5 @@ Este script es compatible con archivos BIN/CUE que contienen múltiples tracks d
 - Asegura una reproducción fiel en emuladores que soportan múltiples tracks.
 - Evita pérdida de datos al combinar imágenes de disco con contenido mixto.
 - Compatible con herramientas de grabación que requieren estructura CUE completa
+- 
+<img width="1028" height="1050" alt="03-08-2025_16-39-09" src="https://github.com/user-attachments/assets/fc422628-c1ec-4446-a630-ee2990a6027e" />
