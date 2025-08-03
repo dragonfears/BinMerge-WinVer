@@ -1,6 +1,6 @@
 🔗 BinMerge WinVer
 
-Este proyecto es un script en **PowerShell** diseñado para automatizar la **fusión de múltiples archivos BIN** en uno solo. Es ideal para usuarios que trabajan con imágenes de disco divididas, especialmente en contextos de emulación, restauración de backups o preparación de medios físicos.
+Este proyecto es un script en **PowerShell** con interfaz grafica diseñado para automatizar la **fusión de múltiples archivos BIN** en uno solo. Es ideal para usuarios que trabajan con imágenes de disco divididas, especialmente en contextos de emulación, restauración de backups o preparación de medios físicos.
 
 ## 🚀 Funcionalidades
 
