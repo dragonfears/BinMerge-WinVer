@@ -68,4 +68,4 @@ ________________________________________
 ________________________________________
 📌 Autor
 👨‍💻 Gerardo Bernal
-Si te sirve este proyecto, ¡dale una ⭐ en GitHub!
+- Si te sirve este proyecto, ¡dale una ⭐ en GitHub!
