@@ -1,6 +1,6 @@
--💾 RetroFuze
--Toolkit en PowerShell con GUI para gestionar colecciones de diferentes plataformas.
--Permite fusionar imágenes CUE/BIN, generar listas de reproducción .m3u, renombrar archivos con limpieza automática y ordenar respaldos para XStation.
+- 💾 RetroFuze
+- Toolkit en PowerShell con GUI para gestionar colecciones de diferentes plataformas.
+- Permite fusionar imágenes CUE/BIN, generar listas de reproducción .m3u, renombrar archivos con limpieza automática y ordenar respaldos para XStation.
 ________________________________________
 ✨ Características principales
 
