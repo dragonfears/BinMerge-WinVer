@@ -53,8 +53,10 @@ o	📂 Ordenar para XStation → Prepara tu SD con todo listo.
 4.	Confirmar
 El script te pedirá confirmación antes de aplicar cambios.
 ________________________________________
-📷 Capturas (Opcional)
-👉 Aquí puedes poner screenshots de la GUI en acción.
+📷 Captura
+
+<img width="515" height="535" alt="retrofuze" src="https://github.com/user-attachments/assets/fce8bdbe-8012-4525-9899-40cd42718051" />
+
 ________________________________________
 🏆 Beneficios
 •	✅ Librería más limpia y profesional.
