@@ -4,8 +4,8 @@ Permite fusionar imágenes CUE/BIN, generar listas de reproducción .m3u, renomb
 ________________________________________
 ✨ Características principales
 
-•	📄 Fusión de imágenes CUE/BIN
-o	Combina múltiples BIN en uno solo.
+-📄 Fusión de imágenes CUE/BIN
+-	Combina múltiples BIN en uno solo.
 o	Genera un nuevo .cue sincronizado.
 o	Mueve los archivos originales a una carpeta segura.
 •	🎵 Generación de playlists (.m3u)
