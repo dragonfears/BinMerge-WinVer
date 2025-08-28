@@ -7,21 +7,21 @@ ________________________________________
 -📄 Fusión de imágenes CUE/BIN
 -	Combina múltiples BIN en uno solo.
 - Genera un nuevo .cue sincronizado.
-o	Mueve los archivos originales a una carpeta segura.
-•	🎵 Generación de playlists (.m3u)
-o	Detecta automáticamente respaldos multi-disco.
-o	Crea listas de reproducción listas para emuladores y ODEs.
-•	🧼 Renombrado inteligente
-o	Limpia títulos de etiquetas innecesarias (Beta, Demo, Hack, etc.).
-o	Preserva y agrega la región del respaldo.
-o	Estándar uniforme para tu librería.
-•	📦 Organización para XStation
-o	Ordena respaldos y discos en el formato correcto.
-o	Soporta modo de simulación antes de aplicar cambios.
-•	🛡️ Robustez y validaciones
-o	Manejo de errores con logs claros (merge_errors.log).
-o	Validación de archivos faltantes o dañados.
-o	Progreso y estado en tiempo real.
+-	Mueve los archivos originales a una carpeta segura.
+-	🎵 Generación de playlists (.m3u)
+-	Detecta automáticamente respaldos multi-disco.
+-	Crea listas de reproducción listas para emuladores y ODEs.
+-	🧼 Renombrado inteligente
+-	Limpia títulos de etiquetas innecesarias (Beta, Demo, Hack, etc.).
+-	Preserva y agrega la región del respaldo.
+-	Estándar uniforme para tu librería.
+-	📦 Organización para XStation
+-	Ordena respaldos y discos en el formato correcto.
+-	Soporta modo de simulación antes de aplicar cambios.
+-	🛡️ Robustez y validaciones
+-	Manejo de errores con logs claros (merge_errors.log).
+-	Validación de archivos faltantes o dañados.
+-	Progreso y estado en tiempo real.
 ________________________________________
 🎶 Tracks soportados en la fusión
 El script reconoce y soporta los siguientes tipos de tracks al fusionar BINs:
