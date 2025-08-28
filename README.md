@@ -6,7 +6,7 @@ ________________________________________
 
 -📄 Fusión de imágenes CUE/BIN
 -	Combina múltiples BIN en uno solo.
-o	Genera un nuevo .cue sincronizado.
+- Genera un nuevo .cue sincronizado.
 o	Mueve los archivos originales a una carpeta segura.
 •	🎵 Generación de playlists (.m3u)
 o	Detecta automáticamente respaldos multi-disco.
