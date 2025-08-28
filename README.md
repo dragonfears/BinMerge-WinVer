@@ -43,7 +43,7 @@ ________________________________________
 ________________________________________
 🚀 Uso
 1.	Abrir la aplicación
-Ejecuta el script .ps1 con PowerShell.
+Ejecuta el archivo.exe.
 2.	Seleccionar carpeta
 Escoge el directorio donde están tus archivos .cue / .bin.
 3.	Elegir acción
@@ -52,7 +52,7 @@ o	🎶 Crear playlist .m3u → Agrupa respaldos y genera listas de reproducción
 o	🧹 Renombrar/Organizar → Limpieza de nombres y estructura.
 o	📂 Ordenar para XStation → Prepara tu SD con todo listo.
 4.	Confirmar
-El script te pedirá confirmación antes de aplicar cambios.
+La aplicación te pedirá confirmación antes de aplicar cambios.
 ________________________________________
 📷 Captura
 
