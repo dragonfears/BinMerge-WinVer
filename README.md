@@ -17,7 +17,6 @@ ________________________________________
 -	Estándar uniforme para tu librería.
 -	📦 Organización para XStation
 -	Ordena respaldos y discos en el formato correcto.
--	Soporta modo de simulación antes de aplicar cambios.
 -	🛡️ Robustez y validaciones
 -	Manejo de errores con logs claros (merge_errors.log).
 -	Validación de archivos faltantes o dañados.
