@@ -4,7 +4,7 @@ Permite fusionar imágenes CUE/BIN, generar listas de reproducción .m3u, renomb
 ________________________________________
 ✨ Características principales
 
--📄 Fusión de imágenes CUE/BIN
+- 📄 Fusión de imágenes CUE/BIN
 -	Combina múltiples BIN en uno solo.
 - Genera un nuevo .cue sincronizado.
 -	Mueve los archivos originales a una carpeta segura.
@@ -25,21 +25,21 @@ ________________________________________
 ________________________________________
 🎶 Tracks soportados en la fusión
 El script reconoce y soporta los siguientes tipos de tracks al fusionar BINs:
-Tipo de Track	Tamaño de bloque
-🎵 AUDIO	2352 bytes
-💿 MODE1/2352	2352 bytes
-💿 MODE2/2352	2352 bytes
-💿 CDI/2352	2352 bytes
-💿 CDG	2448 bytes
-💿 MODE1/2048	2048 bytes
-💿 MODE2/2336	2336 bytes
-💿 CDI/2336	2336 bytes
-✅ Si se encuentra un tipo de track desconocido, se usa por defecto 2352 bytes y se genera una advertencia en el log.
+- Tipo de Track	Tamaño de bloque
+- 🎵 AUDIO	2352 bytes
+- 💿 MODE1/2352	2352 bytes
+- 💿 MODE2/2352	2352 bytes
+- 💿 CDI/2352	2352 bytes
+- 💿 CDG	2448 bytes
+- 💿 MODE1/2048	2048 bytes
+- 💿 MODE2/2336	2336 bytes
+- 💿 CDI/2336	2336 bytes
+- ✅ Si se encuentra un tipo de track desconocido, se usa por defecto 2352 bytes y se genera una advertencia en el log.
 ________________________________________
 🖥️ Requisitos
-•	Windows 10/11
-•	PowerShell 5.1 o superior
-•	.NET Framework (para la interfaz gráfica)
+-	Windows 10/11
+-	PowerShell 5.1 o superior
+-	.NET Framework (para la interfaz gráfica)
 ________________________________________
 🚀 Uso
 1.	Abrir la aplicación
