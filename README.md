@@ -60,11 +60,11 @@ ________________________________________
 
 ________________________________________
 🏆 Beneficios
-•	✅ Librería más limpia y profesional.
-•	✅ Compatibilidad con emuladores y ODEs (XStation, DuckStation, RetroArch).
-•	✅ Automatización: menos trabajo manual.
-•	✅ Logs claros para depuración.
-•	✅ Seguro: mantiene copia de originales.
+-	✅ Librería más limpia y profesional.
+-	✅ Compatibilidad con emuladores y ODEs (XStation, DuckStation, RetroArch).
+-	✅ Automatización: menos trabajo manual.
+-	✅ Logs claros para depuración.
+-	✅ Seguro: mantiene copia de originales.
 ________________________________________
 📌 Autor
 👨‍💻 Gerardo Bernal
