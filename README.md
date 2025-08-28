@@ -3,6 +3,7 @@ Toolkit en PowerShell con GUI para gestionar colecciones de diferentes plataform
 Permite fusionar imágenes CUE/BIN, generar listas de reproducción .m3u, renombrar archivos con limpieza automática y ordenar respaldos para XStation.
 ________________________________________
 ✨ Características principales
+
 •	📄 Fusión de imágenes CUE/BIN
 o	Combina múltiples BIN en uno solo.
 o	Genera un nuevo .cue sincronizado.
